@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "question": "Existen oportunidades de progresar en la institución.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 2,
+    "question": "Se siente compromiso con el éxito en la organización.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 3,
+    "question": "El supervisor brinda apoyo para superar los obstáculos que se presentan.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 4,
+    "question": "Se cuenta con acceso a la información necesaria para cumplir con el trabajo.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 5,
+    "question": "Los compañeros de trabajo cooperan entre sí.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 6,
+    "question": "El jefe se interesa por el éxito de sus empleados.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 7,
+    "question": "Los jefes son accesesibles, es facil hablar con ellos.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 8,
+    "question": "En la organización, se mejoran continuamente los métodos de trabajo.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 9,
+    "question": "En mi oficina. La información fluye adecuadamente.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 10,
+    "question": "Los objetivos de trabajo son retadores.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 11,
+    "question": "Se participa en definir los objetivos y las acciones para lograrlos.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 12,
+    "question": "Cada empleado se considera factor clave para el éxito de la organización.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 13,
+    "question": "La supervisión que se hace del trabajo, ayuda a mejorar la tarea.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 14,
+    "question": "En los grupos de trabajo, existe una relación armoniosa.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 15,
+    "question": "Se tiene la oportunidad de tomar decisiones en tareas de su responsabilidad.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 16,
+    "question": "Se valora los altos niveles de desempeño.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 17,
+    "question": "Los trabajadores estan comprometidos con la organización.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 18,
+    "question": "Se recibe la preparación necesaria para realizar el trabajo.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 19,
+    "question": "Existen suficientes canales de comunicación.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 20,
+    "question": "El grupo con el que trabajo, funciona como un equipo bien integrado.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 21,
+    "question": "Los supervisores expresan reconocimiento por los logros.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 22,
+    "question": "En el área de trabajo se hacen mejor las cosas cada dia.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 23,
+    "question": "Las responsabilidades del puesto están claramente definidas.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 24,
+    "question": "Es posible la interacción con personas de mayor jerarquía.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 25,
+    "question": "Se cuenta con la oportunidad de realizar el trabajo lo mejor que se puede.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 26,
+    "question": "Las actividades en las que se trabaja permiten aprender y desarrollarse.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 27,
+    "question": "Cumplir con las tareas diarias en el trabajo permite el desarrollo personal.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 28,
+    "question": "Se dispone de un sistema para el seguimiento y control de las actividades.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 29,
+    "question": "En el trabajo se se afrontan y superan los obstáculos.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 30,
+    "question": "Existe una buena administración de los recursos.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 31,
+    "question": "Los jefes promueven la capacitación que se necesita.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 32,
+    "question": "Cumplir con las actividades laborales es una tarea estimulante.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 33,
+    "question": "Existen normas y procedimientos como guias de trabajo.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 34,
+    "question": "La institución fomenta y promueve la comunicación interna.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 35,
+    "question": "A las personas aquí se les paga justamente por el trabajo que hacen.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 36,
+    "question": "La empresa promueve el desarrollo del personal.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 37,
+    "question": "Los productos y/o servicios de la organización son motivo de orgullo del personal.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 38,
+    "question": "Los objetivos del trabajo estan claramete definidos.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 39,
+    "question": "El supervisor escucha los planteamientos que se le hace.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 40,
+    "question": "Los objetivos de trabajo guardan relación con la visión, misión y valores de la Empresa.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 41,
+    "question": "Se promueve la generación de ideas creativas o innovadoras.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 42,
+    "question": "Hay clara definición de visión, misión y valores en la institución.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 43,
+    "question": "El trabajo se realiza en función a métodos o planes establecidos.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 44,
+    "question": "Existe colaboración entre el personal de las diversas áreas.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 45,
+    "question": "Se dispone de tecnología que facilita el trabajo.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 46,
+    "question": "Se reconocen los logros en el trabajo.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 47,
+    "question": "La organización es una buena opción para alcanzar calidad de vida laboral.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 48,
+    "question": "Existe un trato justo en el área de trabajo y en la empresa.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 49,
+    "question": "Se conocen los avances en otras áreas de la organización.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  },
+  {
+    "id": 50,
+    "question": "Quiero trabajar aquí por mucho tiempo.",
+    "value_column_a": null,
+    "value_column_b": null,
+    "category": "lorem"
+  }
+]
