@@ -1,8 +1,8 @@
 const sgMail = require('@sendgrid/mail')
 
-//sgMail.setApiKey('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');
-sgMail.setApiKey('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');
-//console.log(sgMail.setApiKey(process.env.SENDGRID_API_KEY));
+
+sgMail.setApiKey(process.env.SENDGRID_API_KEY);
+
 const msg = {
   to: 'rsantiagos@uni.pe', // Change to your recipient
   from: 'test@rapimoney.pe', // Change to your verified sender
